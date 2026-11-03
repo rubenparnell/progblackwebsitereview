@@ -12,7 +12,7 @@
 
 # Validity of HTML:
 
-### Communication.html:
+#### Communication.html:
 
 - The `<html>` tag should have a lang attribute to declare the language.
 - The `scrolling` attribute in the `iframe` is not necessary.
