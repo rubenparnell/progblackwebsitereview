@@ -10,7 +10,7 @@
 
 - Very few commits
 - Unbalanced commits between collaborators 
-- Unbalanced lines between collborators 
-- Incosistent descriptions of authors 
+- Unbalanced lines between collaborators 
+- Inconsistent descriptions of authors 
 - One page lacking an author
 - The author description of ChatGPT was very good
