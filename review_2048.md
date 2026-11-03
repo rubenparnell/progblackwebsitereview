@@ -1,5 +1,11 @@
 # Interest of Content:
 
+ - Varied content covering different points within topics
+ - Main page has little content
+ - Not all pages have same amount of content
+ - Topics themselves are mostly well-picked
+
+
 # Consistency and quality of visual presentation:
 
 # Quality of written presentation:
