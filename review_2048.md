@@ -6,8 +6,18 @@
 
 # Validity of HTML:
 
+### Communication.html:
+
+- The `<html>` tag should have a lang attribute to declare the language.
+- The `scrolling` attribute in the `iframe` is not necessary.
+- There are 2 `div` elements that never close.
+
+#### AI.html:
+
+- The `scrolling` attribute in the `iframe` is not necessary.
+
 # Evidence of collaboration:
 
 - Very few commits
-- Unbalanced commits between collaborators 
-- Unbalanced lines between collborators 
+- Unbalanced commits between collaborators
+- Unbalanced lines between collborators
