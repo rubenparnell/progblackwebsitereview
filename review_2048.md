@@ -1,5 +1,11 @@
 # Interest of Content:
 
+ - Varied content covering different points within topics
+ - Main page has little content
+ - Not all pages have same amount of content
+ - Topics themselves are mostly well-picked
+
+
 # Consistency and quality of visual presentation:
 
   - A navigation bar is present in 3/4 pages
@@ -12,8 +18,21 @@
 
 # Validity of HTML:
 
+#### Communication.html:
+
+- The `<html>` tag should have a lang attribute to declare the language.
+- The `scrolling` attribute in the `iframe` is not necessary.
+- There are 2 `div` elements that never close.
+
+#### AI.html:
+
+- The `scrolling` attribute in the `iframe` is not necessary.
+
 # Evidence of collaboration:
 
 - Very few commits
-- Unbalanced commits between collaborators 
-- Unbalanced lines between collborators 
+- Unbalanced commits between collaborators
+- Unbalanced lines between collborators
+- Incosistent descriptions of authors 
+- One page lacking an author
+- The author description of ChatGPT was very good
