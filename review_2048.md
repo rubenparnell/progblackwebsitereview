@@ -15,6 +15,11 @@
 
 # Quality of written presentation:
 
+- Good
+- Looks nice
+- High quality
+- 8/10 👌
+
 # Validity of HTML:
 
 #### Communication.html:
